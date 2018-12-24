@@ -1,0 +1,9 @@
+body {
+    color: #2ecc12
+}
+
+
+#header {
+    background-color:#1abc9c;
+    height: 150px;
+}
